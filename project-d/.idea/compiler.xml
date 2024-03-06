@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="project-d" options="--add-exports project.e/project_e.componant=project.d --add-exports project.c/project_c.repo=project.d" />
+    </option>
+  </component>
+</project>
